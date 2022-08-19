@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+  }
+ 
+  .name-highlight{
+    color: chocolate;
+  }
+.profile-details{
+  width: 40%;
+float:left;
+margin-left: 5%;
+padding-left: 2%;
+}
+
+.link-button{
+text-decoration: none;
+background-image: linear-gradient(orange,tomato);
+padding: 10px 20px;
+color: aliceblue;
+border-radius: 5px;
+font-weight: 700;
+}
+.profile-picture img{
+  height: 250px;
+  width: 200px;
+  float: right;
+  margin-right: 200px;
+  text-align: center;
+}
