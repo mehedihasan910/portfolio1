@@ -80,3 +80,45 @@ text-align: justify;
   border-radius: 5px;
   height: 300px;
 }
+
+
+/*My work area*/
+.Work{
+  text-align: center;
+  height: 500px;
+}
+.Work h1{
+  font-size: 50px;
+}
+.Work img{
+  margin-right: 50px;
+  box-shadow: 10px 10px 40px;
+  width: 350px;
+}
+
+
+/*Feedback Area*/
+.Feedback{
+  text-align: center;
+  height: 300px;
+}
+.Feedback button{
+  text-decoration: none;
+background-image: linear-gradient(orange,tomato);
+padding: 10px 20px;
+color: aliceblue;
+border-radius: 5px;
+font-weight: 700;
+border: oldlace;
+}
+.Feedback input{
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-right: 20px;
+}
+.footer{
+  text-align: center;
+  background-image: linear-gradient(orange,tomato);
+  color: aliceblue;
+  padding: 10px 10px;
+}
